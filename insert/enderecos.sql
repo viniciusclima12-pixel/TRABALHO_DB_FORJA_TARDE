@@ -1,2 +1,0 @@
--- Active: 1773421575078@@127.0.0.1@3306
-INSERT INTO endereco (rua, numero, complemento, bairro, cidade, estado, pais, cep) VALUES ('rua das flores', 123, NULL, 'araucaria', 'curitiba', 'parana', 'pais', '32123215')
